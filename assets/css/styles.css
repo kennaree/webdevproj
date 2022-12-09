@@ -1,0 +1,91 @@
+h1 {
+    text-align:center;
+    font-size: 200px;
+    font-family: "Lucida Console", "Courier New", monospace;
+ }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(85, 222, 181);
+  }
+
+body {
+    background-color:rgb(199, 222, 224);
+    color: black;
+}
+
+#description {
+    margin-top:5%;
+    font-size: 80px;
+    margin-bottom: 20%;
+    outline-style: groove;
+    outline-color: rgb(249, 46, 80);
+}
+
+#makennaphoto {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#interests {
+    color:darkblue;
+    margin:10%;
+    font-size: 60px;
+    margin-bottom:60%;
+}
+
+#commercial {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 20%;
+    padding-top: 1%;
+    margin-bottom: 10%;
+    padding-bottom: 5%;
+    background-color: white;
+}
+
+#frito {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tableau {
+    font-size: 40px;
+    text-align: center;
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: rgb(0, 255, 8);
+    outline-width: thick;
+}
+
+#viz1670390707462 {
+    padding-top: 5%;
+    width:390px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
